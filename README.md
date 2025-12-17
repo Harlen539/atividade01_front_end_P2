@@ -1,1 +1,1 @@
-# atividade01_front_end_P2
+frontend-exercicios-js-01
